@@ -9,12 +9,14 @@
     <string name="notification">Notification</string>
     <string name="profile">Profile</string>
     <string name="apply_for_assistance">Apply For Assistance</string>
-    <string name="earn_by_helping_others">Earn by Helping Others</string>
     <string name="need_to_fill_application_form">Need to fill Application form</string>
+     <string name="become_assistant">Become Assistant</string>
+    <string name="earn_by_helping_others">Earn by Helping Others</string>
+    <string name="fill_the_application_form">Fill the Application form</string>
     <string name="submit">Submit</string>
-    <string name="full_name">Full Name</string>
     <string name="email_id">email id</string>
     <string name="address">Address</string>
+    <string name="full_name">Full Name</string>
     <string name="paytm_number">Paytm Number</string>
     <string name="todo">TODO</string>
 </resources>
